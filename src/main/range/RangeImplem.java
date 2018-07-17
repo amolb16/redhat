@@ -1,9 +1,6 @@
 package range;
 
-import java.util.Collections;
 import java.util.TreeSet;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class RangeImplem implements Range{
 
